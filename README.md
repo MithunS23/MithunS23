@@ -1,6 +1,6 @@
 # 💫 About Me:
  I'm a beginner developer eager to learn and grow in the world of coding.
- <br>🌱 I'm currently learning HTML,CSS & Javascript<br>🛠️ Skills: Basic Problem Solving<br>📚 Always open to advice, collaboration, and new opportunities!<br><br>
+ <br>🌱 I'm currently learning Nodejs<br>🛠️ Skills: Basic Problem Solving,Frontend<br>📚 Always open to advice, collaboration, and new opportunities!<br><br>
 
 
 ## 🌐 Socials:
